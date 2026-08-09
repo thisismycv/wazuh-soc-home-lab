@@ -10,8 +10,12 @@ setup on cloud infrastructure and work together on simulating attacks,
 analyzing the resulting alerts, and refining detection logic.
 
 **Team:**
-- ([thisismycv](https://github.com/thisismycv))
+- [thisismycv](https://github.com/thisismycv)
 - Hira ([@albatross-280](https://github.com/albatross-280))
+
+## Lab Overview
+
+![wazuh-overview](./use-cases/wazuh-overview.png)
 
 ## Tech Stack
 
@@ -23,9 +27,9 @@ analyzing the resulting alerts, and refining detection logic.
 
 | Use Case | Status |
 |---|---|
-| SSH Brute-Force Detection | 🔄 In Progress |
-| File Integrity Monitoring | 📋 Planned |
-| Malware Detection (VirusTotal Integration) | 📋 Planned |
+| [Content Discovery Scan Detection](./use-cases/content-discovery-scan/content-discovery-scan.md) | ✅ Complete |
+| [Vulnerability Assessment](./use-cases/vulnerability-assessment/vulnerability-assessment.md) | ✅ Complete |
+| MITRE ATT&CK Correlation Analysis | 🔄 In Progress |
 
 ## Goal
 
