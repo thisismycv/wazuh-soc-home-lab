@@ -44,7 +44,7 @@ and understanding attacker behavior from a defender's perspective.
 Connect via SSH tunnel:
 
 ```bash
-ssh -L 8443:10.0.2.4:443 azureuser@20.25.21.61
+ssh -L 8443:<manager-internal-ip>:443 <username>@<manager-public-ip>
 ```
 
 ## Download Wazuh and Install
