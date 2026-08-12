@@ -15,7 +15,7 @@ analyzing the resulting alerts, and refining detection logic.
 
 ## Lab Overview
 
-![wazuh-overview](./use-cases/wazuh-overview.png)
+![wazuh-overview](./wazuh-overview.png)
 
 ## Tech Stack
 
