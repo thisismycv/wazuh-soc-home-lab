@@ -27,9 +27,11 @@ analyzing the resulting alerts, and refining detection logic.
 
 | Use Case | Status |
 |---|---|
-| [Content Discovery Scan Detection](./use-cases/content-discovery-scan/content-discovery-scan.md) | ✅ Complete |
-| [Vulnerability Assessment](./use-cases/vulnerability-assessment/vulnerability-assessment.md) | ✅ Complete |
-| MITRE ATT&CK Correlation Analysis | 🔄 In Progress |
+| [Content Discovery Scan Detection](./content-discovery-scan/content-discovery-scan.md) | ✅ Complete |
+| [Vulnerability Assessment](./vulnerability-assessment/vulnerability-assessment.md) | ✅ Complete |
+| MITRE ATT&CK Correlation Analysis |✅ Complete|
+| [Malicious File Detection (EICAR)](./malicious-file-detection/malicious-file-detection.md) | ✅ Complete |
+| [File Integrity Monitoring — Activity Overview](./fim-activity-overview/fim-activity-overview.md) | ✅ Complete |
 
 ## Goal
 
