@@ -29,7 +29,7 @@ analyzing the resulting alerts, and refining detection logic.
 |---|---|
 | [Content Discovery Scan Detection](./content-discovery-scan/content-discovery-scan.md) | ✅ Complete |
 | [Vulnerability Assessment](./vulnerability-assessment/vulnerability-assessment.md) | ✅ Complete |
-| MITRE ATT&CK Correlation Analysis |✅ Complete|
+| [MITRE ATT&CK Correlation Analysis](./mitre-attack-mapping/mitre-attack-mapping.md) |✅ Complete|
 | [Malicious File Detection (EICAR)](./malicious-file-detection/malicious-file-detection.md) | ✅ Complete |
 | [File Integrity Monitoring — Activity Overview](./fim-activity-overview/fim-activity-overview.md) | ✅ Complete |
 
