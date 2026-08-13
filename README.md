@@ -12,7 +12,7 @@ analyzing the resulting alerts, and refining detection logic.
 **Team:**
 - am4terasu
  [thisismycv](https://github.com/thisismycv)
-- Hira ([@albatross-280](https://github.com/albatross-280))
+- Hira [@albatross-280](https://github.com/albatross-280)
 
 ## Lab Overview
 
