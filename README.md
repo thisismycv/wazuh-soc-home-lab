@@ -10,7 +10,8 @@ setup on cloud infrastructure and work together on simulating attacks,
 analyzing the resulting alerts, and refining detection logic.
 
 **Team:**
-- [thisismycv](https://github.com/thisismycv)
+- am4terasu
+ [thisismycv](https://github.com/thisismycv)
 - Hira ([@albatross-280](https://github.com/albatross-280))
 
 ## Lab Overview
