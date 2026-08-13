@@ -33,6 +33,9 @@ analyzing the resulting alerts, and refining detection logic.
 | [Malicious File Detection (EICAR)](./malicious-file-detection/malicious-file-detection.md) | ✅ Complete |
 | [File Integrity Monitoring — Activity Overview](./fim-activity-overview/fim-activity-overview.md) | ✅ Complete |
 | [Webshell Access Attempt Detection](./webshell-access-attempt/webshell-access-attempt.md) | ✅ Complete |
+| [Malicious HTTP Requests Detection (XSS/Header Injection)](./malicious-http-requests/malicious-http-requests.md) | ✅ Complete |
+| [Privilege Escalation Monitoring (Sudo/Root Activity)](./privilege-escalation-monitoring/privilege-escalation-monitoring.md) | ✅ Complete |
+
 ## Goal
 
 Building practical SOC analyst skills — detection logic, log analysis, 
