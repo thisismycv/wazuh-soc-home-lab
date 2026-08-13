@@ -32,7 +32,7 @@ analyzing the resulting alerts, and refining detection logic.
 | [MITRE ATT&CK Correlation Analysis](./mitre-attack-mapping/mitre-attack-mapping.md) |✅ Complete|
 | [Malicious File Detection (EICAR)](./malicious-file-detection/malicious-file-detection.md) | ✅ Complete |
 | [File Integrity Monitoring — Activity Overview](./fim-activity-overview/fim-activity-overview.md) | ✅ Complete |
-
+| [Webshell Access Attempt Detection](./webshell-access-attempt/webshell-access-attempt.md) | ✅ Complete |
 ## Goal
 
 Building practical SOC analyst skills — detection logic, log analysis, 
